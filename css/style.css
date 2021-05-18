@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, Verdana, sans-serif;
+  background-image: radial-gradient(#778899 5%, transparent 10%);
+  background-color: #FFFFFF;
+  background-size: 7px 7px;
+}
+.centreBox {
+  font-family: inherit;
+  background-color: #f5f5f5;
+  margin-left: 100px;
+  margin-right: 100px;
+  margin-top: -15px;
+  height: 2000px;
+  padding: 20px;
+}
+.bannerBox{
+  font-family: inherit;
+  background-color: #48D1CC;
+  position: relative;
+  margin: 5px;
+  width: auto;
+  height: 120px;
+  padding: 5px;
+}
+.personalDetail{
+  font-family: Arial;
+  margin-left: 24px;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: bold;
+}
+.personalDetailSmall{
+  font-family: Arial;
+  margin-left: 24px;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: bold;
+}
